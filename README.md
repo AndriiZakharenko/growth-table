@@ -1,15 +1,6 @@
-1. Replace `<your_account>` with your Github username in the link
-    - [DEMO LINK](https://<your_account>.github.io/js_growth_table_DOM/)
-2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-    - Run `npm run test` command to test your code;
-    - Run `npm run test:only -- -n` to run fast test ignoring linter;
-    - Run `npm run test:only -- -l` to run fast test with additional info in console ignoring linter.
-
 ### Task: Growth table
 
-Let's blow up this table!
-
-Your task sounds simple: Do you see yellow buttons? Give the table the opportunity to grow in different directions.
+Task sounds simple: Do you see yellow buttons? Give the table the opportunity to grow in different directions.
 
 Preview:
 ![Preview](./src/images/4x4.png)
@@ -24,7 +15,7 @@ Some rules:
 - If the count of columns or rows reaches maximum or minimum, set disabled the corresponding button.
 - If the count of columns or rows can be changed again (after reaching maximum or minimum), set enabled the corresponding button.
 
-As always, on JS Advanced course you do not need to change the HTML layout or CSS styles.
+Do not need to change the HTML layout or CSS styles.
 
 Examples:
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/94261494/234831834-c2a1d711-0ea6-4746-9e38-941734e78e81.png">
@@ -33,3 +24,7 @@ Examples:
 
 ![3x10](./src/images/3x10.png)
 
+
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/js_growth_table_DOM/)
