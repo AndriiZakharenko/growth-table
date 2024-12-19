@@ -1,30 +1,28 @@
-### Task: Growth table
+# Growth table
 
-Task sounds simple: Do you see yellow buttons? Give the table the opportunity to grow in different directions.
+### Description
 
-Preview:
-![Preview](./src/images/4x4.png)
+- Wrote a function `createTree(element, data)` that creates a nested list of `ul/li` from an object
 
-Some rules:
-- Click on the button with class `append-row` should append a new row to the table.
-- Click on the button with class `remove-row` should remove the last row from the table.
-- Click on the button with class `append-column` should append a new column to the table.
-- Click on the button with class `remove-column` should remove the last column from the table.
-- The max count of rows or columns is 10.
-- The min count of rows or columns is 2.
-- If the count of columns or rows reaches maximum or minimum, set disabled the corresponding button.
-- If the count of columns or rows can be changed again (after reaching maximum or minimum), set enabled the corresponding button.
+### Stack
 
-Do not need to change the HTML layout or CSS styles.
+- HTML (BEM)
+- CSS
+- JS
 
-Examples:
-<img width="648" alt="image" src="https://user-images.githubusercontent.com/94261494/234831834-c2a1d711-0ea6-4746-9e38-941734e78e81.png">
+### Tools
 
-![2x2](./src/images/2x2.png)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
 
-![3x10](./src/images/3x10.png)
+### Demo links
 
+- [Demo](https://AndriiZakharenko.github.io/growth-table/)
 
-## Demo Links
+### Reference Image
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_growth_table_DOM/)
+<img src="./src/images/4x4.png" alt="reference image" width="300px" />
+
