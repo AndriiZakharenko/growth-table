@@ -1,28 +1,30 @@
-# Growth table
+# Growth Table
 
-### Description
+## 🎮 About the Project
+This project generates a structured growth table dynamically from an object using a JavaScript function.
 
-- Wrote a function `createTree(element, data)` that creates a nested list of `ul/li` from an object
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (For styling and layout)
+- **JavaScript** (Handles table generation logic)
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Parcel** – Web application bundler  
 
-- HTML (BEM)
-- CSS
-- JS
+## 📌 Features
+✅ Dynamically generates a nested list of `ul/li` from an object  
+✅ Enhances structured data representation  
+✅ Provides a clean and interactive UI  
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/growth-table/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Parcel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/growth-table/)
-
-### Reference Image
-
+## 📸 Reference Image  
 <img src="./src/images/4x4.png" alt="reference image" width="300px" />
 
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_growth_table_DOM)
